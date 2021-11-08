@@ -3,4 +3,4 @@ Solutions for JavaScript daily coding problem questions. Not all of these will b
 credit will be given to the original author.
 
 # Problems Included:
-  - 840
+  - 840 - (author: zbarnz)
